@@ -807,7 +807,7 @@ With a rise of “no code tools”, everyone with a laptop can build and launch 
 - [Coda](https://coda.io) — a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility of apps into a single new canvas. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Kodika.io](https://kodika.io) — build iOS apps with Kodika no code app builder for Mac & iPad, capable of creating powerful apps with Drag & Drop. ![mac.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg)
 - [PageXL](https://pagexl.com/) — a simple one-page website builder for quickly creating landing pages and online stores. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
-- [Remove.bg](https://www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [cutout.pro](https://www.cutout.pro/) — a free service to remove the background of any photo. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Retool](https://tryretool.com/) — gives you building blocks and you can build tools much faster.
 - [sheet2api](https://sheet2api.com/) — create an API from Google Sheets or Excel Online Spreadsheets, no coding required.
 - [Sheet2Site](https://www.sheet2site.com/) — create a website from Google Sheets without writing code.

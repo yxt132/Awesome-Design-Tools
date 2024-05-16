@@ -47,7 +47,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 <div class="nav">
 
 ## Table of Content
-
+- [AI Art Generation Tools](#AI-Art-tools)
 - [Accessibility Tools](#accessibility-tools)
 - [Animation Tools](#animation-tools)
 - [Augmented Reality](#augmented-reality)
@@ -88,6 +88,12 @@ If you found some great design tool or plugin, just send a Pull Request with res
 </div>
 
 <main>
+<article id="AI-Art-tools">
+
+### AI Art Tools
+This is new list to be completed.
+- [PromeAI](https://www.promeai.pro/) — Awesome tool for ai generated images, sketching rendering, outpainting, and so much more. It greatly improves productivity and increase efficiency. 
+
 
 <article id="accessibility-tools">
 

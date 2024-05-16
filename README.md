@@ -92,7 +92,9 @@ If you found some great design tool or plugin, just send a Pull Request with res
 
 ### AI Art Tools
 This is new list to be completed.
-- [PromeAI](https://www.promeai.pro/) — Awesome tool for ai generated images, sketching rendering, outpainting, and so much more. It greatly improves productivity and increase efficiency. 
+- [PromeAI](https://www.promeai.pro/) — Awesome tool for ai generated images and videos, sketching rendering, outpainting, and so much more. It greatly improves productivity and increase efficiency.
+- [MakeFilm](https://www.makefilm.ai/) — Useful tool for ai generated videos, scripts, and shots.
+- [Immerse](https://www.immerse.zone/) — A reverse image search tool for finding stock photos and ai generated images.   
 
 
 <article id="accessibility-tools">
